@@ -1,3 +1,5 @@
+/* eslint-disable prefer-const */
+/* eslint-disable no-undef */
 isAtivo = true
 console.log(isAtivo)
 

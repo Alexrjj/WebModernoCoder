@@ -13,6 +13,7 @@ A variável b também muda, por exemplo:
 c.nome = "Piter"
 b = {nome: "Piter"} */
 
+// eslint-disable-next-line prefer-const
 let valor // Não inicializada
 console.log(valor)
 
